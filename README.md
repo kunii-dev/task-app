@@ -12,7 +12,6 @@ Reactで作成したシンプルなタスク管理アプリです。
 ## 🔗 デモ
 
 * フロント: https://task-app-frontend-lrgl.onrender.com
-* API: https://task-app-backend-1f16.onrender.com
 
 ---
 
