@@ -15,6 +15,22 @@ Reactで作成したシンプルなタスク管理アプリです。
 
 ---
 
+## 📷 スクリーンショット
+
+### 一覧画面
+
+<img src="./images/list.png" width="600">
+
+### 編集機能
+
+<img src="./images/edit.png" width="600">
+
+### フィルター機能
+
+<img src="./images/filter.png" width="600">
+
+---
+
 ## ✨ 機能
 
 * ユーザー認証（JWT）
@@ -68,22 +84,6 @@ Reactで作成したシンプルなタスク管理アプリです。
 * 日報機能の追加
 * UI/UXのさらなる改善
 * テストの導入
-
----
-
-## 📷 スクリーンショット
-
-### 一覧画面
-
-<img src="./images/list.png" width="600">
-
-### 編集機能
-
-<img src="./images/edit.png" width="600">
-
-### フィルター機能
-
-<img src="./images/filter.png" width="600">
 
 ---
 
